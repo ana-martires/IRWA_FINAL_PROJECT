@@ -7,8 +7,6 @@
   * Ana Clara Ferraz Martires (`u232822`)
   * Ainara Etxeberria Albiol (`u232107`)
   * Wassim Ibn Tahar (`u232185`)
-* **Dataset:** `fashion_products_dataset.json`
-
 ---
 
 ## Project Structure
