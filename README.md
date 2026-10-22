@@ -19,7 +19,9 @@
 │   ├── part_1/           # Text Processing & EDA
 ├── requirements.txt      # the necessary requirements to be able to run this code yourself
 └── README.md
-´´´
+```
+---
+
 ## Downloading requirements
 
 To download all the necessary libraries, open terminal and do:
@@ -29,10 +31,13 @@ pip install -r requirements.txt
 Then:
 ´´´Bash
 python -m spacy download en_core_web_sm
-```
+´´´
 **If you have any dificulties, run the following in the notebook: **
 ```Bash
 import sys
 !{sys.executable} -m pip install pandas numpy matplotlib seaborn wordcloud spacy nltk
 !{sys.executable} -m spacy download en_core_web_sm
-´´´
+```
+
+
+
