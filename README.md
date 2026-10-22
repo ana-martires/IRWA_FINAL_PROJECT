@@ -29,9 +29,9 @@ To download all the necessary libraries, open terminal and do:
 pip install -r requirements.txt
 ```
 Then:
-´´´Bash
+```Bash
 python -m spacy download en_core_web_sm
-´´´
+```
 **If you have any dificulties, run the following in the notebook: **
 ```Bash
 import sys
