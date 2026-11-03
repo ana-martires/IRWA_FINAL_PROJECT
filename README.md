@@ -13,8 +13,10 @@
 
 ```text
 /IRWA_FINAL_PROJECT
-├── project_progress/     # deliverables
+├── project_progress/
+│   ├── files/            # some necessary files
 │   ├── part_1/           # Text Processing & EDA
+│   ├── part_2/           # Indexing and evaluation
 ├── requirements.txt      # the necessary requirements to be able to run this code yourself
 └── README.md
 ```
