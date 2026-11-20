@@ -17,6 +17,7 @@
 │   ├── files/            # some necessary files
 │   ├── part_1/           # Text Processing & EDA
 │   ├── part_2/           # Indexing and evaluation
+│   ├── part_3/          
 ├── requirements.txt      # the necessary requirements to be able to run this code yourself
 └── README.md
 ```
